@@ -15,29 +15,19 @@ I have worked with numerous Projects on Flutter.
 A Flutter App , but with a blend of Machine Learning in it and intergrated with a whole lot of features which makes it probably the best of the apps I have worked so far.
 So basically I along with a bunch of seniors from my college have built this "KisanSeva" app - a one stop for Farmers of India who are facing a whole lot issues nowadays .
 
-App has multiple features -
-1- Secured Authentication (via OTP)
-2- Multilingual for efficient use
-2- Rent tools / farming essentials
-3- Plant disease detection
-4- Crop prediction
-5- Smart connect to prevent third party person take advantage
-6- Know the Weather
-7- Feed
-8- Toll free number/ expert assistance
+#### 🗣 Get in touch :
 
-The best thing about the app is its built in 10 days !!!
+[<img align="left" alt="Suraj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Suraj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Suraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Suraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br /><br/><br />
+<img align="left" alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=psk907&show_icons=true&hide_border=false&count_private=true" />
 
--[Healthician - Pharmacy in your hands](https://github.com/UtkarshA135/)
-Keeping in mind above points we have decided to make Healthician .Healthify is focused to cover almost all aspects related to Healthcare in a single app.Healthician has 8 categories -
-1-Covid detection through lung x-ray using a Kaggle dataset and embedding in the flutter app through Tensorflow.
-2- Yoga posture correction - a personal AI based assistant to detect poses using POSENET technology and image processing to calculate the correctness of the pose using another kaggle dataset.
-3-Doctor Patient interaction like video calls , appointments , nearest pharmacy through Google maps API and medicine based on symptoms.
-4-BMI calculation since maintaining a good physique is as much important.
-5- Donate blood and plasma.
-6-Symptoms Detector using Infermedica API.
-7-Medicine Reminder - people forget to take medicine on time which can have unwanted consequences.
-8-Mental Health- let's talk to end depression.
+[twitter]: https://twitter.com/Utkarsh48224262
+[youtube]: https://www.youtube.com/channel/UCO8sg4oeacuBRcM99SZ3vIA
+[instagram]: https://instagram.com/utkarsh_0601
+[linkedin]: https://www.linkedin.com/in/utkarsh-agarwal-654470191/
 <!--
 **UtkarshA135/UtkarshA135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
