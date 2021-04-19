@@ -22,7 +22,7 @@ So basically I along with a bunch of seniors from my college have built this "Ki
 [<img align="left" alt="Suraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Suraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br /><br/><br />
-<img align="left" alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=psk907&show_icons=true&hide_border=false&count_private=true" />
+<img align="left" alt="Utkarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UtkarshA135&show_icons=true&hide_border=false&count_private=true" />
 
 [twitter]: https://twitter.com/Utkarsh48224262
 [youtube]: https://www.youtube.com/channel/UCO8sg4oeacuBRcM99SZ3vIA
