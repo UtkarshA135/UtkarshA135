@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello Amigos 👋
+
+I am a CSE Sophomore at MSRIT.
+
+I am a quick learner, dedicated coder and a developer. From over an year I have been constantly developing mobile based applications in Flutter . I have recently started Web development . I have worked with HTML , CSS , Bootstrap , Dart , C , C++ and Java with a little knowledge of Swift.
+
+I am also into Problem Solving . I frequently participate in events related to Competitive Programming , with max rating of 1525 on codechef and 6 star on Hackerrank .
+
+I frequently participate in Hackathons and I am proud to say my team "Useless Developers" has won consecutive 5 hackathons in a month. To name a few - IOSD-NSUT , WIE Ideathon , CODE RIT hackathon and ReImagine-Waste Hackathon.
+
+I have worked with numerous Projects on Flutter.
 
 <!--
 **UtkarshA135/UtkarshA135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
