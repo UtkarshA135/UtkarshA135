@@ -13,13 +13,13 @@ I have worked with numerous Projects on Flutter.
 ### Top Projects :
 - [KisanSeva](https://github.com/UtkarshA135/kisanseva)
 
-  <img align="right" height="150" src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG-20201130-WA0055.jpg" />
+  <img align="right" height="120" src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG-20201130-WA0055.jpg" />
 A Flutter App , but with a blend of Machine Learning in it and intergrated with a whole lot of features which makes it probably the best of the apps I have worked so far.
 So basically I along with a bunch of seniors from my college have built this "KisanSeva" app - a one stop for Farmers of India who are facing a whole lot issues nowadays .
 
 - [Healthify](https://drive.google.com/file/d/1hRNxdmlwZwYbBz6V-dqz-KZw_XUlJnCv/view)
 
-  <img align="left" height="150" src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0004.jpg" />
+  <img align="right" height="120" src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0004.jpg" />
 A Flutter based mobile application aim at improving the healthcare sector amidst Covid situation
 #### 🗣 Get in touch :
 
