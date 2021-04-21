@@ -27,11 +27,12 @@ A Flutter based mobile application aim at improving the healthcare sector amidst
 In past one year , I have done 2 internships as a Flutter App Developer.
 
 - [Data-Stats](https://drive.google.com/file/d/1QmrRpKbvoYS_Pi8tbm3pOpHBZNRjHhVf/view?usp=sharing)
-  <img align="right" height="75" src="https://github.com/UtkarshA135/UtkarshA135/blob/main/Readme%20images/6c2b8893-4c6c-4881-a3eb-d79869dcc2e0.jfif" />
+  <img align="right" height="65" src="https://github.com/UtkarshA135/UtkarshA135/blob/main/Readme%20images/6c2b8893-4c6c-4881-a3eb-d79869dcc2e0.jfif" />
   is a Noida based company . It was a two month paid internship where I worked on [Scanease](https://play.google.com/store/apps/details?id=com.datastats.scanease) -        available on Playstore. I worked on Image compression & enhancement , Business cards , improving Pdf quality ,Multilingual feature in app, Google drive and Dropbox integration.       
  - [Investiture]()
   <img align="right" height="75" src="https://github.com/UtkarshA135/UtkarshA135/blob/main/Readme%20images/f7fc4d2e-9951-4508-82b7-dab1ef9052c5.jfif" />
-   Investiture is a Jaipur based startup by Sanchit Taksali sir . It was a  month paid internship where I worked on [Mera Advisor App] - not available on Playstore , still under building. I worked on blogs backend as well as frontend , posting and retrieving data of blogs from Firebase, EMI and 7 different kinds of calculators, Chat feature .
+is a Jaipur based startup by Sanchit Taksali sir . It was a  month paid internship where I worked on [Mera Advisor App] - not available on Playstore , still under building. I worked on blogs backend as well as frontend , posting and retrieving data of blogs from Firebase, EMI and 7 different kinds of calculators, Chat feature .
+   
    
   - Currently working with TechMachinery Labs on a Mini-Project.
 
