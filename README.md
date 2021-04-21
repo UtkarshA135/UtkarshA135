@@ -20,7 +20,7 @@ So basically I along with a bunch of seniors from my college have built this "Ki
 - [Healthify](https://drive.google.com/file/d/1hRNxdmlwZwYbBz6V-dqz-KZw_XUlJnCv/view)
 
   <img align="right" height="100" src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0004.jpg" />
-A Flutter based mobile application aim at improving the healthcare sector amidst Covid situation
+A Flutter based mobile application aim at improving the healthcare sector amidst Covid situation. We used a Kaggle dataset to detect Covid 19 using Lung X-ray , an AI assistant for yoga posture correction using POSENET and Image processing, BMI calculator, Symptom Detector using infermedica API, Donate Blood and Plasma , Doctor-Patient Interaction.
 #### 🗣 Get in touch :
 
 [<img align="left" alt="Utkarsh| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
