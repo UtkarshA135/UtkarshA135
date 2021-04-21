@@ -13,7 +13,7 @@ I have worked with numerous Projects on Flutter.
 ### Top Projects :
 - [KisanSeva](https://github.com/UtkarshA135/kisanseva)
 
-  <img align="right" height="50" src="https://user-images.githubusercontent.com/37346450/103101129-1b9a2100-463c-11eb-8a94-b6fbe44bf00f.png" />
+  <img align="right" height="50" src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG-20201130-WA0055.jpg" />
 A Flutter App , but with a blend of Machine Learning in it and intergrated with a whole lot of features which makes it probably the best of the apps I have worked so far.
 So basically I along with a bunch of seniors from my college have built this "KisanSeva" app - a one stop for Farmers of India who are facing a whole lot issues nowadays .
 
