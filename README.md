@@ -48,6 +48,12 @@ In past one year , I have done 2 internships as a Flutter App Developer.
 [youtube]: https://www.youtube.com/channel/UCZKuFxgnEWsvCTQjeFxOS1g
 [instagram]: https://instagram.com/utkarsh_0601
 [linkedin]: https://www.linkedin.com/in/utkarsh-agarwal-654470191/
+
+#### 🗣 CP Handles-
+[<img align="left" alt="Utkarsh| Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][Codechef]
+[<img align="left" alt="Utkarsh | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Hackerrank]
+[Hackerrank]: https://www.hackerrank.com/utkarshagarwal11
+[Codechef]:https://www.codechef.com/users/utkarsh135
 <!--
 **UtkarshA135/UtkarshA135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
