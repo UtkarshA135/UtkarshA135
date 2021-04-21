@@ -21,6 +21,17 @@ So basically I along with a bunch of seniors from my college have built this "Ki
 
   <img align="right" height="100" src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0004.jpg" />
 A Flutter based mobile application aim at improving the healthcare sector amidst Covid situation. We used a Kaggle dataset to detect Covid 19 using Lung X-ray , an AI assistant for yoga posture correction using POSENET and Image processing, BMI calculator, Symptom Detector using infermedica API, Donate Blood and Plasma , Doctor-Patient Interaction.
+
+### Experience :
+
+In past one year , I have done 2 internships as a Flutter App Developer.
+
+- [Data-Stats](https://drive.google.com/file/d/1QmrRpKbvoYS_Pi8tbm3pOpHBZNRjHhVf/view?usp=sharing)
+  <img align="right" height="100" src="https://drive.google.com/file/d/1-VJo2cmhhd2b_ZeCu1aN7AahRsMTx4_1/view?usp=sharing" />
+  Data-stats is a Noida based company . It was a two month paid internship where I worked on [Scanease](https://play.google.com/store/apps/details?id=com.datastats.scanease) -     available on Playstore. I worked on Image compression & enhancement , Business cards , improving Pdf quality ,Multilingual feature in app, Google drive and Dropbox integration.       
+  
+
+
 #### 🗣 Get in touch :
 
 [<img align="left" alt="Utkarsh| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
