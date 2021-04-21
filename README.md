@@ -27,7 +27,7 @@ A Flutter based mobile application aim at improving the healthcare sector amidst
 In past one year , I have done 2 internships as a Flutter App Developer.
 
 - [Data-Stats](https://drive.google.com/file/d/1QmrRpKbvoYS_Pi8tbm3pOpHBZNRjHhVf/view?usp=sharing)
-  <img align="left" height="100" src="https://drive.google.com/file/d/1-VJo2cmhhd2b_ZeCu1aN7AahRsMTx4_1/view?usp=sharing" />
+  <img align="left" height="100" src="https://github.com/UtkarshA135/UtkarshA135/blob/main/Readme%20images/6c2b8893-4c6c-4881-a3eb-d79869dcc2e0.jfif" />
   is a Noida based company . It was a two month paid internship where I worked on [Scanease](https://play.google.com/store/apps/details?id=com.datastats.scanease) -        available on Playstore. I worked on Image compression & enhancement , Business cards , improving Pdf quality ,Multilingual feature in app, Google drive and Dropbox integration.       
   
 
