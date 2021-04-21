@@ -19,7 +19,7 @@ So basically I along with a bunch of seniors from my college have built this "Ki
 
 - [Healthify](https://drive.google.com/file/d/1hRNxdmlwZwYbBz6V-dqz-KZw_XUlJnCv/view)
 
-  <img align="right" height="50" src="https://user-images.githubusercontent.com/37346450/103101129-1b9a2100-463c-11eb-8a94-b6fbe44bf00f.png" />
+  <img align="right" height="50" src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0004.jpg" />
 A Flutter based mobile application aim at improving the healthcare sector amidst Covid situation
 #### 🗣 Get in touch :
 
