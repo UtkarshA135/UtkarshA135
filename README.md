@@ -17,12 +17,12 @@ I have worked with numerous Projects on Flutter.
 A Flutter App , but with a blend of Machine Learning in it and intergrated with a whole lot of features which makes it probably the best of the apps I have worked so far.
 So basically I along with a bunch of seniors from my college have built this "KisanSeva" app - a one stop for Farmers of India who are facing a whole lot issues nowadays .
 
-<!-- 
+
 [Healthify](https://drive.google.com/file/d/1hRNxdmlwZwYbBz6V-dqz-KZw_XUlJnCv/view)-->
 
- <!-- <img align="right" height="100" src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0004.jpg" />
+ <img align="right" height="100" src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0004.jpg" />
 A Flutter based mobile application aim at improving the healthcare sector amidst Covid situation. We used a Kaggle dataset to detect Covid 19 using Lung X-ray , an AI assistant for yoga posture correction using POSENET and Image processing, BMI calculator, Symptom Detector using infermedica API, Donate Blood and Plasma , Doctor-Patient Interaction.](url)
--->
+
 ### Experience :
 
 In past one year , I have done 2 internships as a Flutter App Developer.
