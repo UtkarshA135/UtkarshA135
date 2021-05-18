@@ -47,7 +47,7 @@ In past one year , I have done 2 internships as a Flutter App Developer.
 [<img align="left" alt="Utkarsh| Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][Codechef]
 [<img align="left" alt="Utkarsh | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][Hackerrank]
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUtkarshA135%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br /><br/><br />
 <img align="left" alt="Utkarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UtkarshA135&show_icons=true&hide_border=false&count_private=true" />
 
@@ -57,9 +57,9 @@ In past one year , I have done 2 internships as a Flutter App Developer.
 [linkedin]: https://www.linkedin.com/in/utkarsh-agarwal-654470191/
 [Hackerrank]: https://www.hackerrank.com/utkarshagarwal11
 [Codechef]:https://www.codechef.com/users/utkarsh135
-<br /><br/><br />
-![Utkarsh's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshA135&layout=compact&theme=radical)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUtkarshA135%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img align ="right" alt =" Github lang" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshA135&layout=compact&theme=radical"/>
+
 <!--
 **UtkarshA135/UtkarshA135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
