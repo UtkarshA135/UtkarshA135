@@ -50,14 +50,14 @@ In past one year , I have done 2 internships as a Flutter App Developer.
 
 <br /><br/><br />
 <img align="left" alt="Utkarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UtkarshA135&show_icons=true&hide_border=false&count_private=true" />
-![Utkarsh's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshA135&layout=compact&theme=radical)
+
 [twitter]: https://twitter.com/Utkarsh48224262
 [youtube]: https://www.youtube.com/channel/UCZKuFxgnEWsvCTQjeFxOS1g
 [instagram]: https://instagram.com/utkarsh_0601
 [linkedin]: https://www.linkedin.com/in/utkarsh-agarwal-654470191/
 [Hackerrank]: https://www.hackerrank.com/utkarshagarwal11
 [Codechef]:https://www.codechef.com/users/utkarsh135
-
+![Utkarsh's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshA135&layout=compact&theme=radical)
 <!--
 **UtkarshA135/UtkarshA135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
