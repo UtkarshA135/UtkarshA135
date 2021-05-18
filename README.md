@@ -49,7 +49,7 @@ In past one year , I have done 2 internships as a Flutter App Developer.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUtkarshA135%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br /><br/><br />
-<img align="left" alt="Utkarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UtkarshA135&show_icons=true&hide_border=false&count_private=true" />
+<img align="left" alt="Utkarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UtkarshA135&show_icons=true&hide_border=false&count_private=true" width="500"/>
 
 [twitter]: https://twitter.com/Utkarsh48224262
 [youtube]: https://www.youtube.com/channel/UCZKuFxgnEWsvCTQjeFxOS1g
