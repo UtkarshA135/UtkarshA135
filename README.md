@@ -49,7 +49,6 @@ In past one year , I have done 2 internships as a Flutter App Developer.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUtkarshA135%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br /><br/><br />
-<img align="left" alt="Utkarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UtkarshA135&show_icons=true&hide_border=false&count_private=true" width="450"/>
 
 [twitter]: https://twitter.com/Utkarsh48224262
 [youtube]: https://www.youtube.com/channel/UCZKuFxgnEWsvCTQjeFxOS1g
@@ -57,8 +56,13 @@ In past one year , I have done 2 internships as a Flutter App Developer.
 [linkedin]: https://www.linkedin.com/in/utkarsh-agarwal-654470191/
 [Hackerrank]: https://www.hackerrank.com/utkarshagarwal11
 [Codechef]:https://www.codechef.com/users/utkarsh135
+### Stats⚡⚡
+![Utkarsh's github stats](https://github-readme-stats.vercel.app/api/?username=UtkarshA135&show_icons=true&theme=radical)
+![Utkarsh's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshA135&layout=compact&theme=radical)
+<!--- Thank you https://github.com/anuraghazra for the awsome stats widget-->
 
-<img align ="right" alt =" Github lang" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshA135&layout=compact&theme=radical"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanishgowda21&count_bg=%237F0EBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viwes&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <!--
 **UtkarshA135/UtkarshA135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
