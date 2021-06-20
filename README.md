@@ -4,7 +4,7 @@ I am a CSE Sophomore at MSRIT.
 
 Eye-poppingly profilic Full Stack web and Flutter App Developer with a passion for metrics and beating former "best-yets", with over a year experience and willingness to master Problem Solving skills , to provide effective solution to real world problems and giving it back to the community. I have worked with HTML , CSS , Bootstrap , Dart , C , C++ and Java , Node.js , React.js , EJS , OAuth , Mongoo and Firebase with a little knowledge of Swift.
 
-I am also into Problem Solving . I frequently participate in events related to Competitive Programming , with max rating of 1525 on codechef and 6 star on Hackerrank .
+I am also into Problem Solving . I frequently participate in events related to Competitive Programming , with max rating of 1624 on codechef and 6 star on Hackerrank .
 
 I frequently participate in Hackathons and I am proud to say my team "Useless Developers" has won consecutive 5 hackathons in a month. To name a few - IOSD-NSUT , WIE Ideathon , CODE RIT hackathon and ReImagine-Waste Hackathon.
 
