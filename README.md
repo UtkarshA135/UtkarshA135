@@ -1,4 +1,4 @@
-### Hello Amigos 👋
+### Hola Amigos 👋
 
 I am a CSE Sophomore at MSRIT.
 
@@ -18,7 +18,7 @@ A Flutter App , but with a blend of Machine Learning in it and intergrated with 
 So basically I along with a bunch of seniors from my college have built this "KisanSeva" app - a one stop for Farmers of India who are facing a whole lot issues nowadays .
 
 
-- [Healthify](https://github.com/anirudh-t4/healthyU)
+- [HealthyU](https://github.com/anirudh-t4/healthyU)
 
  <img align="right" height="100" src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0004.jpg" />
 A Flutter based mobile application aim at improving the healthcare sector amidst Covid situation. We used a Kaggle dataset to detect Covid 19 using Lung X-ray , an AI assistant for yoga posture correction using POSENET and Image processing, BMI calculator, Symptom Detector using infermedica API, Donate Blood and Plasma , Doctor-Patient Interaction.](url)
