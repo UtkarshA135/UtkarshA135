@@ -2,7 +2,7 @@
 
 I am a CSE Sophomore at MSRIT.
 
-Eye-poppingly profilic Full Stack web and Flutter App Developer with a passion for metrics and beating former "best-yets", with over a year experience and willingness to master Problem Solving skills , to provide effective solution to real world problems and giving it back to the community. I have worked with HTML , CSS , Bootstrap , Dart , C , C++ and Java , Node.js , React.js , EJS , OAuth , Mongoo and Firebase with a little knowledge of Swift.
+Eye-poppingly profilic Full Stack web and Flutter App Developer with a passion for metrics and beating former "best-yets", with over a year experience and willingness to master Problem Solving skills , to provide effective solution to real world problems and giving it back to the community. I have worked with HTML , CSS , Bootstrap , Dart , C , C++ and Java , Node.js , React.js , EJS , OAuth , MongoDB and Firebase with a little knowledge of Swift.
 
 I am also into Problem Solving . I frequently participate in events related to Competitive Programming , with max rating of 1624 on codechef and 6 star on Hackerrank .
 
