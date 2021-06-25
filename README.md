@@ -32,9 +32,9 @@ In past one year , I have done 2 internships as a Flutter App Developer.
   is a Noida based company . It was a two month paid internship where I worked on [Scanease](https://play.google.com/store/apps/details?id=com.datastats.scanease) -        available on Playstore. I worked on Image compression & enhancement , Business cards , improving Pdf quality ,Multilingual feature in app, Google drive and Dropbox integration.       
  - [Investiture](https://drive.google.com/file/d/1aB4GcbOHLtae0K1Z5aO3VjJdwqIwR8hq/view?usp=sharing) is a Jaipur based startup by Sanchit Taksali sir . It was a  month paid internship where I worked on [Mera Advisor App]() - not available on Playstore , still under building. I worked on blogs backend as well as frontend , posting and retrieving data of blogs from Firebase, EMI and 7 different kinds of calculators, Chat feature .
    
+ - [TechMachinery Labs]() - Worked a Mini-project where we tried to a solve a real world problem . Where to prevent false probing of Solar Cells in Africa , an NGO wanted relevant solution , where I worked on a mobile application and using Google Maps API and google-flutter-fire obtained the location of the house and during second visit we were affirming whether its the same house by calculating distance b/w two observations of Lat and Long.
 
-   
-  - Currently working with TechMachinery Labs on a Mini-Project.
+ - Currently working as SDE intern at Samarik Digital with React-native , Flutter , AWS , MongoDB and Node.
 
 #### 🗣 Get in touch :
 
