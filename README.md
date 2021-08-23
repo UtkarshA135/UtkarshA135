@@ -1,80 +1,38 @@
-### Hola Amigos 👋
+<h1 align="center">Hi 👋, I'm Utkarsh</h1>
+<h3 align="center">A passionate Flutter and MERN Full stack developer from India</h3>
 
-I am a CSE Sophomore at MSRIT.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsha135&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsha135" /> </p>
 
-Eye-poppingly profilic Full Stack web and Flutter App Developer with a passion for metrics and beating former "best-yets", with over a year experience and willingness to master Problem Solving skills , to provide effective solution to real world problems and giving it back to the community. I have worked with HTML , CSS , Bootstrap , Dart , C , C++ and Java , Node.js , React.js , EJS , OAuth , MongoDB and Firebase with a little knowledge of Swift.
+- 🔭 I’m currently working with **Samsung Prism**
 
-I am also into Problem Solving . I frequently participate in events related to Competitive Programming , with max rating of 1645 on codechef and 6 star on Hackerrank .
+- 🌱 I’m currently learning **NodeJS, React JS ,Data-structures and Algorithms**
 
-I frequently participate in Hackathons and I am proud to say my team "Useless Developers" has won consecutive 5 hackathons in a month. To name a few - IOSD-NSUT , WIE Ideathon , CODE RIT hackathon and ReImagine-Waste Hackathon.
+- 👯 I’m looking to collaborate on [Sahayog](https://github.com/UtkarshA135/Sahayog)
 
-I have worked with numerous Projects on Flutter.
+- 👨‍💻 All of my projects are available at [https://utkarsha135.github.io/cmd-port/](https://utkarsha135.github.io/cmd-port/)
 
-### Top Projects :
-- [KisanSeva](https://github.com/UtkarshA135/kisanseva)
+- 💬 Ask me about **Flutter , Android , MERN**
 
-  <img align="right" height="100" src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG-20201130-WA0055.jpg" />
-A Flutter App , but with a blend of Machine Learning in it and intergrated with a whole lot of features which makes it probably the best of the apps I have worked so far.
-So basically I along with a bunch of seniors from my college have built this "KisanSeva" app - a one stop for Farmers of India who are facing a whole lot issues nowadays .
+- 📫 How to reach me **utkarshagarwal101@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SH9l_cGu8vhGYnmGg6apNFLbNqtwU396/view?usp=sharing](https://drive.google.com/file/d/1SH9l_cGu8vhGYnmGg6apNFLbNqtwU396/view?usp=sharing)
 
-- [HealthyU](https://github.com/anirudh-t4/healthyU)
+- ⚡ Fun fact **I think I am funny**
 
- <img align="right" height="100" src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0004.jpg" />
-A Flutter based mobile application aim at improving the healthcare sector amidst Covid situation. We used a Kaggle dataset to detect Covid 19 using Lung X-ray , an AI assistant for yoga posture correction using POSENET and Image processing, BMI calculator, Symptom Detector using infermedica API, Donate Blood and Plasma , Doctor-Patient Interaction.](url)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-agarwal-654470191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-agarwal-654470191/" height="30" width="40" /></a>
+<a href="https://instagram.com/utkarsh0601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkarsh0601" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/utkarsh135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utkarsh135" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/utkarshagarwal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshagarwal11" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/utkarshagarwal101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="utkarshagarwal101" height="30" width="40" /></a>
+</p>
 
-### Experience :
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-In past one year , I have done 2 internships as a Flutter App Developer.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsha135&show_icons=true&locale=en&layout=compact" alt="utkarsha135" /></p>
 
-- [Data-Stats](https://drive.google.com/file/d/1QmrRpKbvoYS_Pi8tbm3pOpHBZNRjHhVf/view?usp=sharing)
-  <img align="right" height="65" src="https://github.com/UtkarshA135/UtkarshA135/blob/main/Readme%20images/6c2b8893-4c6c-4881-a3eb-d79869dcc2e0.jfif" />
-  is a Noida based company . It was a two month paid internship where I worked on [Scanease](https://play.google.com/store/apps/details?id=com.datastats.scanease) -        available on Playstore. I worked on Image compression & enhancement , Business cards , improving Pdf quality ,Multilingual feature in app, Google drive and Dropbox integration.       
- - [Investiture](https://drive.google.com/file/d/1aB4GcbOHLtae0K1Z5aO3VjJdwqIwR8hq/view?usp=sharing) is a Jaipur based startup by Sanchit Taksali sir . It was a  month paid internship where I worked on [Mera Advisor App]() - not available on Playstore , still under building. I worked on blogs backend as well as frontend , posting and retrieving data of blogs from Firebase, EMI and 7 different kinds of calculators, Chat feature .
-   
- - [TechMachinery Labs]() - Worked a Mini-project where we tried to a solve a real world problem . Where to prevent false probing of Solar Cells in Africa , an NGO wanted relevant solution , where I worked on a mobile application and using Google Maps API and google-flutter-fire obtained the location of the house and during second visit we were affirming whether its the same house by calculating distance b/w two observations of Lat and Long.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsha135&show_icons=true&locale=en" alt="utkarsha135" /></p>
 
- - Currently working as SDE intern at Samarik Digital with React-native , Flutter , AWS , MongoDB and Node.
-
-#### 🗣 Get in touch :
-
-[<img align="left" alt="Utkarsh| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Utkarsh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Utkarsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Utkarsh| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br/>
-#### 🗣 CP Handles-
-[<img align="left" alt="Utkarsh| Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][Codechef]
-[<img align="left" alt="Utkarsh | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][Hackerrank]
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUtkarshA135%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br /><br/><br />
-
-[twitter]: https://twitter.com/Utkarsh48224262
-[youtube]: https://www.youtube.com/channel/UCZKuFxgnEWsvCTQjeFxOS1g
-[instagram]: https://instagram.com/utkarsh_0601
-[linkedin]: https://www.linkedin.com/in/utkarsh-agarwal-654470191/
-[Hackerrank]: https://www.hackerrank.com/utkarshagarwal11
-[Codechef]:https://www.codechef.com/users/utkarsh135
-### Stats⚡⚡
-![Utkarsh's github stats](https://github-readme-stats.vercel.app/api/?username=UtkarshA135&show_icons=true&theme=radical)
-![Utkarsh's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshA135&layout=compact&theme=radical)
-<!--- Thank you https://github.com/anuraghazra for the awsome stats widget-->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanishgowda21&count_bg=%237F0EBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viwes&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-<!--
-**UtkarshA135/UtkarshA135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsha135&" alt="utkarsha135" /></p>
