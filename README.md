@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on [Sahayog](https://github.com/UtkarshA135/Sahayog)
 
-- 👨‍💻 All of my projects are available at [https://utkarsha135.github.io/cmd-port/](https://utkarsha135.github.io/cmd-port/)
+- 👨‍💻 All of my projects are available at [Porfolio](https://utkarsha135.github.io/cmd-port/)
 
 - 💬 Ask me about **Flutter , Android , MERN**
 
 - 📫 How to reach me **utkarshagarwal101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SH9l_cGu8vhGYnmGg6apNFLbNqtwU396/view?usp=sharing](https://drive.google.com/file/d/1SH9l_cGu8vhGYnmGg6apNFLbNqtwU396/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SH9l_cGu8vhGYnmGg6apNFLbNqtwU396/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
