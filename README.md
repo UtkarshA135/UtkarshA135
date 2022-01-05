@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **Samsung Prism**
 
-- 🌱 I’m currently learning **NodeJS, React JS ,Data-structures and Algorithms**
+- 🌱 I’m currently learning **Data-structures and Algorithms**
 
 - 👯 I’m looking to collaborate on [Sahayog](https://github.com/UtkarshA135/Sahayog)
 
