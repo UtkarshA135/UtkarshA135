@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsha135&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsha135" /> </p>
 
-- 🔭 I’m currently interning at **Samsung R&D Institute India under PRISM program**
+- 🔭 I’m currently interning at **Samsung R&D Institute,India** under PRISM program
 
 - 🌱 I’m currently learning **Data-structures and Algorithms**
 
