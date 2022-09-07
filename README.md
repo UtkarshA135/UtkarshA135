@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently interning at **Sharechat, India** as a SDE-intern in Backend team
 
-- 🌱 I’m currently learning **Data-structures and Algorithms**
+- 🌱 I’m currently learning **Kubernetes, Docker and DevOps stuff**
 
 - 👯 I’m looking to collaborate on [Sahayog](https://github.com/UtkarshA135/Sahayog)
 
